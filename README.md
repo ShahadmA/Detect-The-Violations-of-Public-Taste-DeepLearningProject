@@ -44,8 +44,8 @@ The dataset’s is a series of pictures.
 
 ## Future work:
 *	The model will be able to apply penalties.
-### --------
-### Team members:
+_____________________________________________________________________
+#### Team members:
 Shahad Almutairi - Sahar Alharthi - Mukhtar Al Bin Hamad - Inshirah Almutairi - Ghaida Alaqeel.
-### Instructor:
+#### Instructor:
 Dr.Mejdal Alqahtani.
