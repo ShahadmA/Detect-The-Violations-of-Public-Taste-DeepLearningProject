@@ -13,28 +13,24 @@ The dataset’s is a series of pictures.
 
 <table>
   <tr>
-    <th>Programs</th>
+    <th>Technologies</th>
     <th>Libraries </th>
   </tr>
   <tr>
     <td>Python program language </td>
-    <td>Pandas</td>
+    <td>Numpy</td>
   </tr>
   <tr>
     <td>Jupiter Notebook</td>
-    <td>NumPy</td>
+    <td>Keras</td>
   </tr>
   <tr>
     <td>-</td>
-    <td>MatPlotLib</td>
+    <td>Transorflow</td>
   </tr>
   <tr>
     <td>-</td>
-    <td>sklean</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>keras</td>
+    <td>Streamlit</td>
   </tr>
   </table>
   
